@@ -1,4 +1,4 @@
-package com.bolsaideas.springboot.web.app.models;
+package com.bolsadeideas.springboot.web.models;
 
 public class Usuario {
 	private String nombre;
